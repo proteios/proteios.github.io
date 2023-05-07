@@ -1,12 +1,30 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar-category:
+#   - title: Research
+#     children:
+#       - title: "Human"
+#         url: "/human"
+#         category: "human"
+#       - title: "UVI Study"
+#         url: "/uvi study"
+#         category: "uvi study"
+#   - title: Server
+#     children:
+#       - title: "Ubuntu"
+#         url: "/ubuntu"
+#         category: "ubuntu"
+#   - title: blog
+#     children:
+#       - title: "Jekyll"
+#         url: "/jekyll"
+#         category: "jekyll"
