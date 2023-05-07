@@ -9,22 +9,29 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# sidebar-category:
-#   - title: Research
-#     children:
-#       - title: "Human"
-#         url: "/human"
-#         category: "human"
-#       - title: "UVI Study"
-#         url: "/uvi study"
-#         category: "uvi study"
-#   - title: Server
-#     children:
-#       - title: "Ubuntu"
-#         url: "/ubuntu"
-#         category: "ubuntu"
-#   - title: blog
-#     children:
-#       - title: "Jekyll"
-#         url: "/jekyll"
-#         category: "jekyll"
+sidebar-category:
+  - title: Finance
+    children:
+      - title: "trading"
+        url: "/trading"
+        category: "trading"
+  - title: Math/Statistics
+    children:
+      - title: "timeserise"
+        url: "/timeserise"
+        category: "timeserise"
+  - title: MachineLearning
+    children:
+      - title: "anomaly detection"
+        url: "/anomaly detection"
+        category: "anomaly detection"
+  - title: ComputerScience
+    children:
+      - title: "python"
+        url: "/python"
+        category: "python"
+  - title: Blog
+    children:
+      - title: "Jekyll"
+        url: "/jekyll"
+        category: "jekyll"

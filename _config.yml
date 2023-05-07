@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "데이터로 세상을 설계합니다." # site tagline that appears below site title in masthead
 name                     : "Proteios"
 description              : "생각하는 대로 살지 않으면, 사는대로 생각하게 된다."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://proteios.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -91,7 +91,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : # If the user or organization name differs from the site's nameg
   links: # An array of links to social media profiles
 
 # Analytics
@@ -291,5 +291,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar:                  
+        nav: "sidebar-category"
 
 date_format: "%Y-%m-%d"
