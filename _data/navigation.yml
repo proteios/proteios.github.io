@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  # - title: ""
-  #   url: /year-archive/
+  # - title: "Statistics"
+  #   url: /statistics/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -20,12 +20,12 @@ sidebar-category:
       - title: "timeserise"
         url: "/timeserise"
         category: "timeserise"
-  - title: MachineLearning
+  - title: Machine Learning
     children:
       - title: "anomaly detection"
         url: "/anomaly detection"
         category: "anomaly detection"
-  - title: ComputerScience
+  - title: Computer Science
     children:
       - title: "python"
         url: "/python"
