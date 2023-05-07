@@ -4,9 +4,6 @@ title: Statistics
 author_profile: true
 permalink: /statistics/
 ---
-{% javascript %}
-  javascript_code
-{% endjavascript %}
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <link rel="stylesheet" href="./images/billboard.css">
