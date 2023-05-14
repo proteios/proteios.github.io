@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+# title: About
 author_profile: true
 permalink: /about/
 classes: wide
