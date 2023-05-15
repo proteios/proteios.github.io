@@ -199,6 +199,7 @@
     margin-left: 0; /* override margin*/
     margin-right: 0; /* override margin*/
     width: span(3 of 9);
+    height: 400px;
 
     &:nth-child(2n + 1) {
       clear: none;
@@ -259,7 +260,7 @@
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      max-height: 200px; /*높이 수정*/
     }
   }
 }
